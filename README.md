@@ -18,9 +18,32 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,react,mongodb,nodejs,html,css,flutter,dart,solidity,web3,blockchain,vr,ai,git,github,docker,mysql,firebase,ps,ai,figma,linux,postman,gmail,blender,html5" />
+    <!-- 🗄️ Databases -->
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+    
+    <!-- 🖥️ Backend -->
+    <img src="https://skillicons.dev/icons?i=python,nodejs,solidity,web3" />
+
+    <!-- 🎨 Frontend -->
+    <img src="https://skillicons.dev/icons?i=html,html5,css,js,ts,react,flutter,dart" />
+
+    <!-- 🤖 AI & Blockchain -->
+    <img src="https://skillicons.dev/icons?i=ai,blockchain" />
+
+    <!-- 🎮 Virtual Reality -->
+    <img src="https://skillicons.dev/icons?i=vr" />
+
+    <!-- 🔧 DevOps & Tools -->
+    <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux" />
+
+    <!-- 🎨 Design & Multimedia -->
+    <img src="https://skillicons.dev/icons?i=ps,ai,figma,blender" />
+
+    <!-- 📧 Communication -->
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
+
 
 <br>
 
