@@ -33,6 +33,7 @@
     <img src="https://skillicons.dev/icons?i=python" />
     <img src="https://skillicons.dev/icons?i=nodejs" />
     <img src="https://skillicons.dev/icons?i=solidity" />
+    <img src="https://skillicons.dev/icons?i=kotlin" />
     <img src="https://skillicons.dev/icons?i=web3" />
   </a>
 </p>
@@ -49,23 +50,6 @@
     <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=flutter" />
     <img src="https://skillicons.dev/icons?i=dart" />
-  </a>
-</p>
-
-<!-- 🤖 AI & Blockchain -->
-<h3>🤖 AI & Blockchain</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai" />
-    <img src="https://skillicons.dev/icons?i=blockchain" />
-  </a>
-</p>
-
-<!-- 🎮 Virtual Reality -->
-<h3>🎮 Virtual Reality</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vr" />
   </a>
 </p>
 
