@@ -30,7 +30,7 @@
 <!-- 🖥️ Backend -->
 <h3>🖥️ Backend</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev,vscode&perline=4">
     <img src="https://skillicons.dev/icons?i=python" />
     <img src="https://skillicons.dev/icons?i=nodejs" />
     <img src="https://skillicons.dev/icons?i=solidity" />
@@ -41,7 +41,7 @@
 <!-- 🎨 Frontend -->
 <h3>🎨 Frontend</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev,vscode&perline=8">
     <img src="https://skillicons.dev/icons?i=html" />
     <img src="https://skillicons.dev/icons?i=html5" />
     <img src="https://skillicons.dev/icons?i=css" />
