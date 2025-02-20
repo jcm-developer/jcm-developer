@@ -23,6 +23,7 @@
     <img src="https://skillicons.dev/icons?i=mongodb" />
     <img src="https://skillicons.dev/icons?i=mysql" />
     <img src="https://skillicons.dev/icons?i=firebase" />
+    <img src="https://skillicons.dev/icons?i=postgres" />
   </a>
 </p>
 
@@ -42,6 +43,7 @@
 <h3>🎨 Frontend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html" />
     <img src="https://skillicons.dev/icons?i=html5" />
     <img src="https://skillicons.dev/icons?i=css" />
     <img src="https://skillicons.dev/icons?i=js" />
@@ -49,6 +51,7 @@
     <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=flutter" />
     <img src="https://skillicons.dev/icons?i=vue" />
+    <img src="https://skillicons.dev/icons?i=c" />
   </a>
 </p>
 
@@ -61,6 +64,7 @@
     <img src="https://skillicons.dev/icons?i=github" />
     <img src="https://skillicons.dev/icons?i=postman" />
     <img src="https://skillicons.dev/icons?i=linux" />
+    <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
 </p>
 
@@ -75,11 +79,21 @@
   </a>
 </p>
 
+
+<!-- 🤖 AI & Blockchain -->
+<h3>🤖 AI & Blockchain</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow" />
+  </a>
+</p>
+
 <!-- 📧 Communication -->
 <h3>📧 Communication</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
