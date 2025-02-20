@@ -71,6 +71,7 @@
 <p align="left">
   <a href="https://skillicons.dev,vscode&perline=4">
     <img src="https://skillicons.dev/icons?i=ps" />
+    <img src="https://skillicons.dev/icons?i=pr" />
     <img src="https://skillicons.dev/icons?i=ai" />
     <img src="https://skillicons.dev/icons?i=figma" />
     <img src="https://skillicons.dev/icons?i=blender" />
