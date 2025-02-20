@@ -97,7 +97,7 @@
 
 <br>
 
-<h2>🌟 Current Interests</h2>
+<h2>Current Interests 🌟</h2>
 
 - 🔗 Blockchain
 - 🤖 Artificial Intelligence & Machine Learning
