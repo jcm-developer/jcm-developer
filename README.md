@@ -16,34 +16,89 @@
 
 <h2>Tecnologías conocidas 👨🏻‍💻</h2>
 
+<!-- 🗄️ Databases -->
+<h3>🗄️ Databases</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <!-- 🗄️ Databases -->
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-    
-    <!-- 🖥️ Backend -->
-    <img src="https://skillicons.dev/icons?i=python,nodejs,solidity,web3" />
-
-    <!-- 🎨 Frontend -->
-    <img src="https://skillicons.dev/icons?i=html,html5,css,js,ts,react,flutter,dart" />
-
-    <!-- 🤖 AI & Blockchain -->
-    <img src="https://skillicons.dev/icons?i=ai,blockchain" />
-
-    <!-- 🎮 Virtual Reality -->
-    <img src="https://skillicons.dev/icons?i=vr" />
-
-    <!-- 🔧 DevOps & Tools -->
-    <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux" />
-
-    <!-- 🎨 Design & Multimedia -->
-    <img src="https://skillicons.dev/icons?i=ps,ai,figma,blender" />
-
-    <!-- 📧 Communication -->
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=firebase" />
   </a>
 </p>
 
+<!-- 🖥️ Backend -->
+<h3>🖥️ Backend</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=solidity" />
+    <img src="https://skillicons.dev/icons?i=web3" />
+  </a>
+</p>
+
+<!-- 🎨 Frontend -->
+<h3>🎨 Frontend</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=html5" />
+    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=js" />
+    <img src="https://skillicons.dev/icons?i=ts" />
+    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://skillicons.dev/icons?i=flutter" />
+    <img src="https://skillicons.dev/icons?i=dart" />
+  </a>
+</p>
+
+<!-- 🤖 AI & Blockchain -->
+<h3>🤖 AI & Blockchain</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ai" />
+    <img src="https://skillicons.dev/icons?i=blockchain" />
+  </a>
+</p>
+
+<!-- 🎮 Virtual Reality -->
+<h3>🎮 Virtual Reality</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vr" />
+  </a>
+</p>
+
+<!-- 🔧 DevOps & Tools -->
+<h3>🔧 DevOps & Tools</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker" />
+    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=postman" />
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
+</p>
+
+<!-- 🎨 Design & Multimedia -->
+<h3>🎨 Design & Multimedia</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps" />
+    <img src="https://skillicons.dev/icons?i=ai" />
+    <img src="https://skillicons.dev/icons?i=figma" />
+    <img src="https://skillicons.dev/icons?i=blender" />
+  </a>
+</p>
+
+<!-- 📧 Communication -->
+<h3>📧 Communication</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 <br>
 
