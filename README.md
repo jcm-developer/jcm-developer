@@ -11,6 +11,7 @@
 
 📫 Contacto: **jaumecortesmonzon@gmail.com**
 </p>
+
 <br>
 
 <h2>Tecnologías conocidas 👨🏻‍💻</h2>
@@ -20,6 +21,7 @@
     <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,flutter,dart,solidity,web3,blockchain,vr,ai,git,github,docker,mysql,firebase,ps,ai,figma,linux,vscode&perline=12" />
   </a>
 </p>
+
 <br>
 
 <h2>🌟 Intereses Actuales</h2>
