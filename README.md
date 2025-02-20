@@ -57,7 +57,7 @@
 <!-- 🔧 DevOps & Tools -->
 <h3>🔧 DevOps & Tools</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev,vscode&perline=6">
     <img src="https://skillicons.dev/icons?i=docker" />
     <img src="https://skillicons.dev/icons?i=git" />
     <img src="https://skillicons.dev/icons?i=github" />
@@ -70,7 +70,7 @@
 <!-- 🎨 Design & Multimedia -->
 <h3>🎨 Design & Multimedia</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev,vscode&perline=4">
     <img src="https://skillicons.dev/icons?i=ps" />
     <img src="https://skillicons.dev/icons?i=ai" />
     <img src="https://skillicons.dev/icons?i=figma" />
@@ -82,7 +82,7 @@
 <!-- 🤖 AI & Blockchain -->
 <h3>🤖 AI & Blockchain</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev,vscode&perline=1">
     <img src="https://skillicons.dev/icons?i=tensorflow" />
   </a>
 </p>
@@ -90,7 +90,7 @@
 <!-- 📧 Communication -->
 <h3>📧 Communication</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev,vscode&perline=2">
     <img src="https://skillicons.dev/icons?i=gmail" />
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
