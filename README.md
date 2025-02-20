@@ -88,12 +88,12 @@
 
 <h2>🌟 Intereses Actuales</h2>
 
-- 🔗 Blockchain y contratos inteligentes
+- 🔗 Blockchain
 - 🤖 Inteligencia Artificial y Machine Learning
 - 📱 Aplicaciones móviles híbridas (React Native, Flutter)
 - 🌐 Desarrollo Web Full-Stack
 - 🎮 Realidad Virtual (VR) y experiencias inmersivas
-- 🚀 Automatización de procesos y bots inteligentes
+- 🚀 Automatización de procesos y asistentes IA
 
 ---
 
