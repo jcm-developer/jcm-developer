@@ -19,7 +19,7 @@
 <!-- 🗄️ Databases -->
 <h3>🗄️ Databases</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev,vscode&perline=4">
     <img src="https://skillicons.dev/icons?i=mongodb" />
     <img src="https://skillicons.dev/icons?i=mysql" />
     <img src="https://skillicons.dev/icons?i=firebase" />
@@ -35,7 +35,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs" />
     <img src="https://skillicons.dev/icons?i=solidity" />
     <img src="https://skillicons.dev/icons?i=kotlin" />
-    <img src="https://skillicons.dev/icons?i=web3" />
   </a>
 </p>
 
