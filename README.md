@@ -42,14 +42,13 @@
 <h3>🎨 Frontend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html" />
     <img src="https://skillicons.dev/icons?i=html5" />
     <img src="https://skillicons.dev/icons?i=css" />
     <img src="https://skillicons.dev/icons?i=js" />
     <img src="https://skillicons.dev/icons?i=ts" />
     <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=flutter" />
-    <img src="https://skillicons.dev/icons?i=dart" />
+    <img src="https://skillicons.dev/icons?i=vue" />
   </a>
 </p>
 
