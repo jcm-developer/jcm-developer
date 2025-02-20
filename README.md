@@ -1,7 +1,5 @@
 <h1 align="center">Hola 👋 soy Jaume Cortés Monzón ✨</h1> 
 
-<h2>Sobre mí 😃</h2>
-
 <p align="left">
 🎓 Programador y desarrollador web y móvil con enfoque en <strong>automatizaciones</strong>, <strong>inteligencia artificial</strong>, y <strong>tecnologías emergentes</strong>.
 
@@ -23,8 +21,6 @@
   </a>
 </p>
 <br>
-
-<br><br><br><br><br>
 
 <h2>🌟 Intereses Actuales</h2>
 
