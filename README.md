@@ -42,6 +42,7 @@
 <h3>🎨 Frontend</h3>
 <p align="left">
   <a href="https://skillicons.dev,vscode&perline=8">
+    <img src="https://skillicons.dev/icons?i=htm5" />
     <img src="https://skillicons.dev/icons?i=css" />
     <img src="https://skillicons.dev/icons?i=js" />
     <img src="https://skillicons.dev/icons?i=ts" />
