@@ -1,20 +1,20 @@
-<h1 align="center">Hola 👋 soy Jaume Cortés Monzón ✨</h1> 
+<h1 align="center">Hi 👋 I'm Jaume Cortés Monzón ✨</h1> 
 
 <p align="left">
-🎓 Programador y desarrollador web y móvil con enfoque en <strong>automatizaciones</strong>, <strong>inteligencia artificial</strong>, y <strong>tecnologías emergentes</strong>.
+🎓 Web and mobile developer focused on <strong>automation</strong>, <strong>artificial intelligence</strong>, and <strong>emerging technologies</strong>.
 
-💻 Me encanta crear proyectos usando tecnologías como <strong>Python</strong>, <strong>JavaScript</strong>, <strong>React</strong>, <strong>Blockchain</strong> y <strong>Realidad Virtual (VR)</strong>.
+💻 I love creating projects using technologies like <strong>Python</strong>, <strong>JavaScript</strong>, <strong>React</strong>, <strong>Blockchain</strong>, and <strong>Virtual Reality (VR)</strong>.
 
-🛠️ Desarrollo aplicaciones móviles y web escalables, integro IA en proyectos reales y exploro el potencial de la blockchain en el desarrollo de nuevas plataformas.
+🛠️ I develop scalable mobile and web applications, integrate AI into real-world projects, and explore the potential of blockchain in developing new platforms.
 
-📝 Roles desempeñados: desarrollador, líder técnico, arquitecto de software, emprendedor y programador freelance. ¡Y en el futuro, quién sabe! ☺️
+📝 Roles I've taken on: developer, tech lead, software architect, entrepreneur, and freelance programmer. Who knows what's next! ☺️
 
-📫 Contacto: **jaumecortesmonzon@gmail.com**
+📫 Contact: **jaumecortesmonzon@gmail.com**
 </p>
 
 <br>
 
-<h2>Tecnologías conocidas 👨🏻‍💻</h2>
+<h2>Technologies I Work With 👨🏻‍💻</h2>
 
 <!-- 🗄️ Databases -->
 <h3>🗄️ Databases</h3>
@@ -78,7 +78,6 @@
   </a>
 </p>
 
-
 <!-- 🤖 AI & Blockchain -->
 <h3>🤖 AI & Blockchain</h3>
 <p align="left">
@@ -98,15 +97,15 @@
 
 <br>
 
-<h2>🌟 Intereses Actuales</h2>
+<h2>🌟 Current Interests</h2>
 
 - 🔗 Blockchain
-- 🤖 Inteligencia Artificial y Machine Learning
-- 📱 Aplicaciones móviles híbridas (React Native, Flutter)
-- 🌐 Desarrollo Web Full-Stack
-- 🎮 Realidad Virtual (VR) y experiencias inmersivas
-- 🚀 Automatización de procesos y asistentes IA
+- 🤖 Artificial Intelligence & Machine Learning
+- 📱 Hybrid Mobile Apps (React Native, Flutter)
+- 🌐 Full-Stack Web Development
+- 🎮 Virtual Reality (VR) & Immersive Experiences
+- 🚀 Process Automation & AI Assistants
 
 ---
 
-💬 ¿Quieres colaborar o intercambiar ideas? ¡Contáctame! 🚀
+💬 Want to collaborate or exchange ideas? Feel free to reach out! 🚀
