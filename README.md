@@ -3,11 +3,11 @@
 <p align="left">
 🎓 Programador y desarrollador web y móvil con enfoque en <strong>automatizaciones</strong>, <strong>inteligencia artificial</strong>, y <strong>tecnologías emergentes</strong>.
 
-💻 Me encanta crear soluciones usando tecnologías como <strong>Python</strong>, <strong>JavaScript</strong>, <strong>React</strong>, <strong>Blockchain</strong> y <strong>Realidad Virtual (VR)</strong>.
+💻 Me encanta crear proyectos usando tecnologías como <strong>Python</strong>, <strong>JavaScript</strong>, <strong>React</strong>, <strong>Blockchain</strong> y <strong>Realidad Virtual (VR)</strong>.
 
 🛠️ Desarrollo aplicaciones móviles y web escalables, integro IA en proyectos reales y exploro el potencial de la blockchain en el desarrollo de nuevas plataformas.
 
-📝 Roles desempeñados: desarrollador, líder técnico, arquitecto de software, cofundador, emprendedor y programador freelance. ¡Y en el futuro, quién sabe! ☺️
+📝 Roles desempeñados: desarrollador, líder técnico, arquitecto de software, emprendedor y programador freelance. ¡Y en el futuro, quién sabe! ☺️
 
 📫 Contacto: **jaumecortesmonzon@gmail.com**
 </p>
