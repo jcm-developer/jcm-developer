@@ -35,15 +35,27 @@ Earlier work includes a Bosch technical-service mobile app (Kotlin), VR/AR apart
 
 ## Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,js,nodejs,react,vue,astro,kotlin&perline=8&theme=dark">
-  <img alt="Languages and frameworks: Python, TypeScript, JavaScript, Node.js, React, Vue, Astro, Kotlin" src="https://skillicons.dev/icons?i=python,ts,js,nodejs,react,vue,astro,kotlin&perline=8&theme=light">
-</picture>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gcp,cloudflare,postgres,mongodb,supabase,docker,git,tensorflow&perline=8&theme=dark">
-  <img alt="Platforms and tools: Google Cloud, Cloudflare, PostgreSQL, MongoDB, Supabase, Docker, Git, TensorFlow" src="https://skillicons.dev/icons?i=gcp,cloudflare,postgres,mongodb,supabase,docker,git,tensorflow&perline=8&theme=light">
-</picture>
+<p>
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" title="Python">
+  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" title="TypeScript">
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" title="JavaScript">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" title="Node.js">
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" title="React">
+  <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" title="Vue">
+  <img src="https://skillicons.dev/icons?i=astro" width="48" height="48" alt="Astro" title="Astro">
+  <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" title="Kotlin">
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" title="Google Cloud">
+  <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" title="Cloudflare">
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" title="PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" title="MongoDB">
+  <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" title="Supabase">
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" title="Docker">
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git">
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" title="TensorFlow">
+</p>
 
 ## Credentials
 
