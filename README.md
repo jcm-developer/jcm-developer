@@ -53,9 +53,3 @@ Earlier work includes a Bosch technical-service mobile app (Kotlin), VR/AR apart
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git">
   <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" title="TensorFlow">
 </p>
-
-## Credentials
-
-Computer Engineering, Valencian International University (VIU) · Anthropic: Claude API, Claude Code, Model Context Protocol · Google AI · Machine Learning & Deep Learning (Zero To Mastery)
-
-Spanish and Catalan native · English B2
