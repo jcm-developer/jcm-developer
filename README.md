@@ -1,8 +1,8 @@
-<h1 align="center">Jaume Cortés Monzón</h1>
+<h1 align="center">AI Engineer</h1>
 
 <p align="center">
-  <strong>AI Engineer</strong> at <a href="https://codegenia.com">CodeGenia</a> · Valencia, Spain<br>
-  I turn client needs into AI agents and the software around them, end to end.
+  Building AI agents and the software around them, end to end.<br>
+  <a href="https://codegenia.com">CodeGenia</a> · Valencia, Spain
 </p>
 
 <p align="center">
