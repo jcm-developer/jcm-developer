@@ -44,7 +44,6 @@ Earlier work includes a Bosch technical-service mobile app (Kotlin), VR/AR apart
   <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" title="Vue">
   <img src="https://skillicons.dev/icons?i=astro" width="48" height="48" alt="Astro" title="Astro">
   <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" title="Kotlin">
-
   <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" title="Google Cloud">
   <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" title="Cloudflare">
   <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" title="PostgreSQL">
